@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ahazfernando
-- 👀 I’m interested in UI/UX Architecture
-- 🌱 I’m currently an Undergraduate at Stafforshire University, UK
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me via linkedIn : Ahaz Fernando or ahazfernando_ in instagram
+Hi, I'm @ahazfernando! | Passionate about Data Science and driven to become a skilled Data Analyst, I am currently pursuing a major in Computer Science at Staffordshire University, UK. | As an undergraduate, I'm constantly expanding my knowledge and honing my skills in data analysis, machine learning, and statistical modeling. | I'm eager to collaborate on exciting data-driven projects, research, and innovative solutions that make a real-world impact. | Let's connect! You can reach me on LinkedIn: Ahaz Fernando or follow me on Instagram: @ahazfernando
 
 <!---
 ahazfernando/ahazfernando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
