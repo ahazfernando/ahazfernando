@@ -1,6 +1,4 @@
-Hi, I'm @ahazfernando! | Passionate about Data Science and driven to become a skilled Data Analyst, I am currently pursuing a major in Computer Science at Staffordshire University, UK. | As an undergraduate, I'm constantly expanding my knowledge and honing my skills in data analysis, machine learning, and statistical modeling. | I'm eager to collaborate on exciting data-driven projects, research, and innovative solutions that make a real-world impact. | Let's connect! You can reach me on LinkedIn: Ahaz Fernando or follow me on Instagram: @ahazfernando
+Fueled by curiosity and a passion for building meaningful digital experiences, I’m a Computer Science undergraduate driven by the intersection of data, design, and technology.
 
-<!---
-ahazfernando/ahazfernando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+With hands on experience designing and developing full-stack web applications, I’ve led UI/UX and front end projects from concept to deployment crafting products that are both visually refined and functionally powerful. My toolkit spans React, Next.js, TypeScript, Tailwind, Figma, and the MERN stack, and I’m equally at home in analytical spaces exploring data visualization, performance insights, and product optimization.
+
