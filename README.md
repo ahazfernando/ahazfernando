@@ -4,4 +4,4 @@ With hands on experience designing and developing full-stack web applications, I
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahazfernando&theme=dark&show_icons=true)
 
-[![My Skills](https://skillicons.dev/icons?aws,bootstrap,css,docker,express,firebase,flutter,html,java,js,jenkins,kubernetes,mongodb,nodejs,php,python,react,tensorflow,ts&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bootstrap,css,docker,express,firebase,flutter,html,java,js,jenkins,kubernetes,mongodb,nodejs,php,python,react,tensorflow,ts&perline=10)](https://skillicons.dev)
